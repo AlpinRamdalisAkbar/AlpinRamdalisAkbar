@@ -1,8 +1,8 @@
 Let me introduce myself :
 - 👋 Hi, I’m @AlpinRamdalisAkbar
-- 👀 I’m interested in PHP, JS, Go, and C#
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning C#
-- 🎓 I have expirience in using Angular, Asp.net, and Stored Procedure using ssms
+- 🎓 I have expirience in using Angular, .net core, and Stored Procedure using in Sql Server
 - 🏢 I have 1 year work experience as web developer
 - 🙍‍♂️ Second github account [Archbelial](https://github.com/archbelial)
   
